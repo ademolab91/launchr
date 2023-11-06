@@ -61,6 +61,7 @@ target/
 
 # pyenv
 .python-version
+mytoplists-env
 
 # celery beat schedule file
 celerybeat-schedule
