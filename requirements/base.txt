@@ -1,0 +1,7 @@
+django==4.2.7
+psycopg2==2.9.9
+django-allauth==0.58.1
+dj-stripe==2.8.3
+django-recaptcha==3.0.0
+django-htmx==1.17.0
+django-bootstrap-v5==1.0.11
